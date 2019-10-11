@@ -1,0 +1,138 @@
+body {
+  margin: auto;
+  text-align: center;
+  color: #207561;
+}
+
+h1 {
+  font-family: 'Sacramento', sans-serif;
+  font-size: 4.6em;
+  font-weight: bold;
+  color: #57a99a;
+  margin: auto auto 20px auto;
+}
+
+h2 {
+  font-family: 'Sacramento', sans-serif;
+  font-size: 2.9em;
+  color: #57a99a;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Sacramento', sans-serif;
+  font-size: 1.9em;
+  color: #57a99a;
+}
+
+head {
+  background-color: #d1eecc;
+  font-weight: bolder;
+}
+hr {
+  color: #207561;
+  width: 40%;
+}
+
+a {
+  color: #d1eecc;
+  font-family: 'Prata', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffea;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.prof-pic {
+  margin-bottom: -50px;
+}
+
+.hello {
+  margin-top: -50px;
+  margin-bottom: 50px;
+}
+
+.nerdy-fox {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.second-line {
+  font-family: 'Indie Flower', sans-serif;
+  font-size: 1.9em;
+  position: relative;
+  bottom: 25px;
+  color: #57a99a;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+  font-family: 'Prata', serif;
+}
+
+.top-container {
+  background-color: #d1eecc;
+  padding-top: 40px;
+  font-family: 'Prata', serif;
+}
+
+.forest-png {
+  margin-top: -20px;
+  position: relative;
+  bottom: 35px;
+  z-index: auto;
+}
+
+.middle-container {
+  margin-top: -20px;
+  background-color: #d1eecc;
+  font-family: 'Prata', serif;
+}
+
+.contact-me {
+  width: 50%;
+  line-height: 2;
+  margin: auto;
+}
+.bottom-container {
+  margin-top: 30px;
+  background-color: #207561;
+  font-family: 'Prata', serif;
+  padding: 50px 0 20px;
+}
+
+.butn {
+
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Prata', serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #57a99a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #207561;
+  text-decoration: none;
+}
+
+.footer-text {
+  color: #d1eecc;
+  font-size: 0.8em;
+  padding: 10px 0 10px;
+}
