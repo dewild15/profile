@@ -93,6 +93,7 @@ a:hover {
   position: relative;
   bottom: 35px;
   z-index: auto;
+  max-width: 100%;
 }
 
 .middle-container {
