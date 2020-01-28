@@ -27,6 +27,7 @@ h3 {
 
 p {
   font-size: 1.5em;
+  max-width: 60%;
 
 head {
   background-color: #d1eecc;
